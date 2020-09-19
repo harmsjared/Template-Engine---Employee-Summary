@@ -17,6 +17,8 @@ Run `npm install` to install all dependencies
 7. If you selected Engineer, input their GitHub. If you selected Manager, input their office number. If you selected Intern, input their school
 8. Repeat for all employees until you receive the "Success!" notification. 
 
+
+
 9. Go to the `output` folder, find `team.html` and open it in your default web browser. this is your output web page for your team. It should look similar to below.
 
 
