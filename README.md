@@ -19,6 +19,7 @@ Run `npm install` to install all dependencies
 
 9. Go to the `output` folder, find `team.html` and open it in your default web browser. this is your output web page for your team. It should look similar to below.
 
+
 ## Tool & Resources
 ---
 * [Bootstrap](https://getbootstrap.com/) - CSS framework used
